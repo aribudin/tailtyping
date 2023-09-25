@@ -1,0 +1,21 @@
+{
+  "name": "tailtyping",
+  "version": "1.0.0",
+  "description": "Tailwind typing with vanilla javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/tailwind/tailwind.css -o ./src/css/style.css --watch"
+  },
+  "keywords": [
+    "typing",
+    "javascript",
+    "tailwind",
+    "typing"
+  ],
+  "author": "ari budin",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
