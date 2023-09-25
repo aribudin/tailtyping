@@ -1,1 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+/* Cursor Blink Efect */
+.typing-cursor::after {
+  font-weight: 400;
+  content: '|';
+  animation: blink 0.75s infinite;
+}
+
+@keyframes blink {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+}
