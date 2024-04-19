@@ -61,7 +61,7 @@ data-text=""  | Data typing text
 
 ## PRO VERSION
 <img src="src/img/tailtyping.jpg" alt="Tailtyping Pro Version">
-[TailTyping All Version](https://lightestcode.gumroad.com/l/tailtyping)
+[TailTyping All Version](https://tailnet.gumroad.com/l/tailtyping)
 
 ## About LightestCode
 
